@@ -1,11 +1,5 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
-
-class FirstClass extends React.Component {
-  render() {
-    return <h1>Well, this is a test</h1>;
-  }
+functinon func() {
+  document.getElementById('app');
+  document.write(<h1>This is da test yo</h1>);
 }
-
-ReactDOM.render(<FirstClass />,
-document.getElementById('app'));
+func();
