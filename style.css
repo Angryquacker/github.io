@@ -91,3 +91,6 @@ img {
 #imgs {
   text-align: center;
 }
+
+section p {
+  margin-right: 5px;
