@@ -59,6 +59,7 @@ aside {
   padding: 10px;
   margin-bottom: 3.5em;
   border-left: 1px solid white;
+  margin-left: 5px;
 }
 
 #info {
@@ -91,6 +92,3 @@ img {
 #imgs {
   text-align: center;
 }
-
-section p {
-  margin-right: 5px;
